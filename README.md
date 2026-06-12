@@ -1,6 +1,10 @@
 # Netflix Prize Recommendation System
 ### Open Projects 2026 — The Cultural Council, IIT Roorkee
 
+**Name:** Suda Mounika
+**Enrollment No:** 23115147
+**Branch & Year:** EE 4Y
+
 A personalized movie recommendation system built using the Netflix Prize Dataset.
 Implements and compares four recommendation approaches: SVD, NMF, SVD++, and
 Neural Collaborative Filtering (NCF).
@@ -30,6 +34,10 @@ netflix-recommendation-system/
 ├── requirements.txt
 
 ├── Netflix_Recommendation_System.ipynb
+
+├── Recommendation_System_Report.pdf
+
+├── Recommendation_System_Presentation.pdf
 
 └── results/
 
@@ -126,9 +134,3 @@ layers (128 → 64 → 1) with ReLU activations and Dropout regularization.
 | scikit-learn | Train-test split |
 
 ---
-
-## Participant
-
-**Name:** Suda Mounika
-**Enrollment No:** 23115147
-**Branch & Year:** EE 4Y
